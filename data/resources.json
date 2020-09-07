@@ -3,7 +3,7 @@
   "description": "Junta-te a comunidade para aprender coisas novas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, portugal",
-  "dates": "October 12-13, 2018",
+  "dates": "17 de outubro de 2020",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Partilhar",
   "followOur": "Follow our",
@@ -18,13 +18,13 @@
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
+  "refresh": "Recarregar",
   "position": "Position",
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
-  "timezoneOffset": "-180",
+  "timezoneOffset": "-60",
   "footer": {
     "blog": "Blog"
   },
@@ -64,21 +64,6 @@
         {
           "name": "DFUA 2013",
           "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
           "newTab": true
         }
       ]
