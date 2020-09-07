@@ -1,12 +1,12 @@
 {
   "organizer": {
     "name": "GDG Portugal",
-    "twitter": "gdglviv",
+    "twitter": "gdgportugal",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://gdgportugal.xyz/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2020-10-17T09:00:00+01:00",
+  "endDate": "2020-10-17T23:00:00+01:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -31,12 +31,12 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Calendário"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "Equipa"
     },
     {
       "route": "blog",
@@ -51,7 +51,7 @@
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
       },
-      "fontColor": "#000"
+      "fontColor": "#FFF"
     },
     "blog": {
       "title": "Blog",
@@ -112,21 +112,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Localização",
+    "name": "Evento Online",
+    "city": "Lisboa",
+    "short": "Lisboa, Portugal",
+    "address": "Portugal",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 38.7436883,
+      "longitude": -9.1952226,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 38,
+      "longitude": -9
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Um evento online com a colaboração das GDG's de Portugal"
   },
   "mediaQueries": {
     "xs": {
@@ -156,7 +156,7 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdgportugal/"
       },
       {
         "name": "instagram",
@@ -220,5 +220,8 @@
       "itemsCount": 5
     }
   },
-  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+  "showForkMeBlockForProjectIds": [
+    "hoverboard-master",
+    "hoverboard-dev"
+  ]
 }
